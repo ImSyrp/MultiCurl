@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-%3E%3D7.0-blue" alt="PHP Version"/>
   <img src="https://img.shields.io/badge/cURL-enabled-brightgreen" alt="cURL Enabled"/>
-  <img src="https://img.shields.io/github/license/your-repo/multicurl" alt="License"/>
+  <img src="https://img.shields.io/github/license/ImSyrp/MultiCurl" alt="License"/>
 </p>
 
 **MultiCurl** is a lightweight PHP class that allows you to efficiently manage and execute multiple HTTP requests in parallel using PHP’s cURL library. It helps reduce execution time by making simultaneous API calls or web requests.
